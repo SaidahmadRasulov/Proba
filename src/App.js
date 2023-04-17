@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <Header />
-      <h1>App Section</h1>
+      <h1>Yangilangan Section</h1>
     </div>
   )
 }
